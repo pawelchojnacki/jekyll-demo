@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Mitch Altman's Hacker Trip to Poland 2017"
 date:   2017-10-22 12:00:00 +0200
 categories: mitch-altman poland
